@@ -1,5 +1,11 @@
 body{
-    color: deeppink;
+    color: blue;
     text-align: center;
     font-family: Arial;
+}
+
+.container{
+    width: 20%;
+    height: 10%;
+    padding: 1em;
 }
