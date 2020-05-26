@@ -9,3 +9,8 @@ body{
     height: 10%;
     padding: 1em;
 }
+
+.cabecera{
+    background: red;
+    color: aqua;
+}
